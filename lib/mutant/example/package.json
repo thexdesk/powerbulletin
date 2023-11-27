@@ -3,7 +3,7 @@
   , "version": "0.0.1"
   , "dependencies": {
         "express": "3.0.0beta4"
-      , "connect-assets": "2.1.x"
+      , "connect-assets": "3.0.0"
       , "jade": "*"
       , "stylus": "*"
       , "coffee-script": "*"
